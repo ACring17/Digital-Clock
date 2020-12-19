@@ -56,7 +56,7 @@ body {
 }
 
 .wrapper span {
-    height: 00%;
+    height: 100%;
     width: 100%;
     background: inherit;
     border-radius: 10px;
